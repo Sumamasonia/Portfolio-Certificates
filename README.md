@@ -20,9 +20,9 @@ All certificates are available in PDF format or via official verification links.
 
 
 ### freeCodeCamp
-- **Scientific Computing with Python**  
+- **Foundational C# with Microsoft**  
   Issued by: *freeCodeCamp*  
-  [🌐 View Certificate (Official Link)](https://www.freecodecamp.org/certification/SumamaSonia/foundational-c-sharp-with-microsoft))
+  [🌐 View Certificate (Official Link)](https://www.freecodecamp.org/certification/sumamasonia/foundational-c-sharp-with-microsoft)
 
 ---
 
